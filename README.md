@@ -6,4 +6,5 @@
 * XML 기반 설정 파일을 통한 Injection
 * Annocation 기반 설정 파일을 통한 Injection
 * View Mapping
+* Json data 변환
 
